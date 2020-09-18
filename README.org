@@ -46,5 +46,9 @@ As a minimum, you are expected to implement the following:
 - Combine all your changes, experiments, and improvements into your 'final'
   model, and reduce MSE by as much as possible.
 
+Besides this, we recommend experimenting with Git (making and merging branches),
+and to make good use of the documentation for scikit-learn to come up with some
+new ideas for the house value model!
+
 Each individual step above must be committed to git before Thursday September
 24th.
